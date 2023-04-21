@@ -1,4 +1,4 @@
-This is a pipelined ARM CPU that I designed using the follownig architecture:
+This is a pipelined ARM CPU that I designed which has the follownig architecture:
 
 ![image](CPU_architecure.png)
 
